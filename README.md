@@ -1,1 +1,24 @@
-< -- KI Anrufbeantworter in nahezu allen Sprachen -- ><img width="2194" height="2720" alt="Ki Anrufbeantworter" src="https://github.com/user-attachments/assets/6256917c-fc67-4e8d-bac1-d504dd105e42" />
+🚀 AI CallFlow
+
+Enterprise AI Voice Platform
+
+--------------------------------
+
+✔ Features
+
+✔ Screenshots
+
+✔ Architektur
+
+✔ Tech Stack
+
+✔ Installation
+
+✔ Docker
+
+✔ Roadmap
+
+✔ Dokumentation
+
+✔ Lizenz
+
