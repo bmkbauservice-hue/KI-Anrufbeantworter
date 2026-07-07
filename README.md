@@ -3,7 +3,7 @@
 
 
 
-![Uploading Unbenannt-2026-04-27-0917.png…]()
+![Uploading Projekt Planung.png…]()
 
 
 <img width="2049" height="6464" alt="Unbenannt-2026-04-27-0917" src="https://github.com/user-attachments/assets/b9e2582d-b5fe-43ba-bb6f-74a2effa691a" />
